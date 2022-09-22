@@ -128,3 +128,7 @@ References:
 2.   Open Refine Documentation
 
 *       https://docs.openrefine.org/manual/grelfunctions
+
+3.    Open Refine Turtorial 
+
+*       http://web.archive.org/web/20190105063215/enipedia.tudelft.nl/wiki/OpenRefine_Tutorial
